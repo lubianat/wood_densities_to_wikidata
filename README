@@ -18,3 +18,10 @@ based on https://github.com/lubianat/ideas/issues/164
 
 wood_densities_table.tsv extracted with ChatGPT 4.5 
 scientific_names.tsv extracted with NotebookLM (some Gemini model, unsure which)
+
+
+# Comment: 
+
+I trusted the Agentic AI too much; there were a few silent errors here and there (specially in converting the taxonomic names). 
+
+Hard things which require a lot of detail (say, taxonomy) better to manually check, otherwise error propagation likely.
