@@ -1,0 +1,20 @@
+Goal 
+
+-- Extract wood densities
+
+-- Format data
+
+-- See some distributions, for fun 
+
+-- Reconcile names to GBIF ids / scientific names 
+
+-- Create V1 Quickstatements for Wikidata (source = https://www.wikidata.org/wiki/Q51406082) 
+ 
+
+--- modelling ==  density + applies to part + wood ? 
+
+based on https://github.com/lubianat/ideas/issues/164 
+
+
+wood_densities_table.tsv extracted with ChatGPT 4.5 
+scientific_names.tsv extracted with NotebookLM (some Gemini model, unsure which)
